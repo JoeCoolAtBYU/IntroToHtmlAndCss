@@ -8,12 +8,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/framework/css/main.css">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/framework/test.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/framework/test2.html">
           <value>
             <set />
           </value>
